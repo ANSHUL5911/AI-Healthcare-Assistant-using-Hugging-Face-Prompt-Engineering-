@@ -14,9 +14,10 @@ A prompt-engineering assignment that turns an open, ungated Hugging Face LLM (**
 
 | File | Description |
 |---|---|
-| `Copy_of_MediAssist_AI_Prompt_Engineering.ipynb` | Main notebook — model setup + all 7 tasks + bonus challenge |
+| `MediAssist_AI_Prompt_Engineering_Chatbot.ipynb` | Main notebook — model setup + all 7 tasks + bonus challenge |
 | `MediAssist_AI_Prompt_Engineering_Report.docx` | 3-page report: model selection, techniques, challenges, refinements |
 | `README.md` | This file |
+| `images` | screenshots of chatbot  |
 
 ---
 
@@ -57,13 +58,7 @@ jupyter notebook Copy_of_MediAssist_AI_Prompt_Engineering.ipynb
 
 Run the cells top to bottom. Cell 6 loads the tokenizer/model; every task afterward reuses the shared `generate_response()` wrapper.
 
----
 
-## ⚠️ Disclaimer
-
-This is an **educational prompt-engineering project**, not a medical device. `zephyr-7b-beta` is a general-purpose language model with **no clinical fine-tuning** — every prompt in this repo includes explicit guardrails (no definitive diagnosis, emergency flagging, uncertainty admission), but outputs should never be used for real clinical decisions.
-
----
 
 ## 📄 Full Report
 
