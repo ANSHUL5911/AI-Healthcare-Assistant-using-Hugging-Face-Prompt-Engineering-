@@ -62,7 +62,7 @@ Run the cells top to bottom. Cell 6 loads the tokenizer/model; every task afterw
 
 ## 📄 Full Report
 
-See [`MediAssist_AI_Prompt_Engineering_Report.docx`](./MediAssist_AI_Prompt_Engineering_Report.docx) for the complete write-up on model selection, prompt engineering techniques, challenges faced, and before/after prompt refinements.
+See [`MediAssist_AI_Prompt_Engineering_Report.pdf`](./MediAssist_AI_Prompt_Engineering_Report.pdf) for the complete write-up on model selection, prompt engineering techniques, challenges faced, and before/after prompt refinements.
 
 ---
 
