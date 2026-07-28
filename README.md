@@ -15,7 +15,7 @@ A prompt-engineering assignment that turns an open, ungated Hugging Face LLM (**
 | File | Description |
 |---|---|
 | `MediAssist_AI_Prompt_Engineering_Chatbot.ipynb` | Main notebook — model setup + all 7 tasks + bonus challenge |
-| `MediAssist_AI_Prompt_Engineering_Report.docx` | 3-page report: model selection, techniques, challenges, refinements |
+| `MediAssist_AI_Prompt_Engineering_Report (1).docx` | 3-page report: model selection, techniques, challenges, refinements |
 | `README.md` | This file |
 | `images` | screenshots of chatbot  |
 
@@ -62,7 +62,7 @@ Run the cells top to bottom. Cell 6 loads the tokenizer/model; every task afterw
 
 ## 📄 Full Report
 
-See [`MediAssist_AI_Prompt_Engineering_Report.pdf`](./MediAssist_AI_Prompt_Engineering_Report.pdf) for the complete write-up on model selection, prompt engineering techniques, challenges faced, and before/after prompt refinements.
+See [`MediAssist_AI_Prompt_Engineering_Report (1).pdf`](./MediAssist_AI_Prompt_Engineering_Report (1).pdf) for the complete write-up on model selection, prompt engineering techniques, challenges faced, and before/after prompt refinements.
 
 ---
 
